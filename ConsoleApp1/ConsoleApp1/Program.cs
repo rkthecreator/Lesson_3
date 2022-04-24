@@ -16,10 +16,11 @@ namespace Lesson2
             value += 234;
 
             var counter = value;
-            counter--;
+            counter++;
 
             Console.WriteLine("wow " + value);
             Console.WriteLine("Counter: " + counter);
+            Console.WriteLine(value + counter);
             Console.ReadLine();
         }
     }
