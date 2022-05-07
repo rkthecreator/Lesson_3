@@ -1,0 +1,16 @@
+C:\Users\Рома\source\repos\Классы и Методы урок3\Классы и Методы урок3\bin\Debug\net5.0\Классы и Методы урок3.exe
+C:\Users\Рома\source\repos\Классы и Методы урок3\Классы и Методы урок3\bin\Debug\net5.0\Классы и Методы урок3.deps.json
+C:\Users\Рома\source\repos\Классы и Методы урок3\Классы и Методы урок3\bin\Debug\net5.0\Классы и Методы урок3.runtimeconfig.json
+C:\Users\Рома\source\repos\Классы и Методы урок3\Классы и Методы урок3\bin\Debug\net5.0\Классы и Методы урок3.runtimeconfig.dev.json
+C:\Users\Рома\source\repos\Классы и Методы урок3\Классы и Методы урок3\bin\Debug\net5.0\Классы и Методы урок3.dll
+C:\Users\Рома\source\repos\Классы и Методы урок3\Классы и Методы урок3\bin\Debug\net5.0\ref\Классы и Методы урок3.dll
+C:\Users\Рома\source\repos\Классы и Методы урок3\Классы и Методы урок3\bin\Debug\net5.0\Классы и Методы урок3.pdb
+C:\Users\Рома\source\repos\Классы и Методы урок3\Классы и Методы урок3\obj\Debug\net5.0\Классы и Методы урок3.csprojAssemblyReference.cache
+C:\Users\Рома\source\repos\Классы и Методы урок3\Классы и Методы урок3\obj\Debug\net5.0\Классы и Методы урок3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Рома\source\repos\Классы и Методы урок3\Классы и Методы урок3\obj\Debug\net5.0\Классы и Методы урок3.AssemblyInfoInputs.cache
+C:\Users\Рома\source\repos\Классы и Методы урок3\Классы и Методы урок3\obj\Debug\net5.0\Классы и Методы урок3.AssemblyInfo.cs
+C:\Users\Рома\source\repos\Классы и Методы урок3\Классы и Методы урок3\obj\Debug\net5.0\Классы и Методы урок3.csproj.CoreCompileInputs.cache
+C:\Users\Рома\source\repos\Классы и Методы урок3\Классы и Методы урок3\obj\Debug\net5.0\Классы и Методы урок3.dll
+C:\Users\Рома\source\repos\Классы и Методы урок3\Классы и Методы урок3\obj\Debug\net5.0\ref\Классы и Методы урок3.dll
+C:\Users\Рома\source\repos\Классы и Методы урок3\Классы и Методы урок3\obj\Debug\net5.0\Классы и Методы урок3.pdb
+C:\Users\Рома\source\repos\Классы и Методы урок3\Классы и Методы урок3\obj\Debug\net5.0\Классы и Методы урок3.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Классы и Методы урок3/1.0.0": {
+        "runtime": {
+          "Классы и Методы урок3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Классы и Методы урок3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
