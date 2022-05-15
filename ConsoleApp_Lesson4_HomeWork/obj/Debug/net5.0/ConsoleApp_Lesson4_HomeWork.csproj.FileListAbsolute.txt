@@ -1,0 +1,16 @@
+C:\Users\Рома\source\repos\ConsoleApp_Lesson4_HomeWork\ConsoleApp_Lesson4_HomeWork\obj\Debug\net5.0\ConsoleApp_Lesson4_HomeWork.csprojAssemblyReference.cache
+C:\Users\Рома\source\repos\ConsoleApp_Lesson4_HomeWork\ConsoleApp_Lesson4_HomeWork\obj\Debug\net5.0\ConsoleApp_Lesson4_HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Рома\source\repos\ConsoleApp_Lesson4_HomeWork\ConsoleApp_Lesson4_HomeWork\obj\Debug\net5.0\ConsoleApp_Lesson4_HomeWork.AssemblyInfoInputs.cache
+C:\Users\Рома\source\repos\ConsoleApp_Lesson4_HomeWork\ConsoleApp_Lesson4_HomeWork\obj\Debug\net5.0\ConsoleApp_Lesson4_HomeWork.AssemblyInfo.cs
+C:\Users\Рома\source\repos\ConsoleApp_Lesson4_HomeWork\ConsoleApp_Lesson4_HomeWork\obj\Debug\net5.0\ConsoleApp_Lesson4_HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\Рома\source\repos\ConsoleApp_Lesson4_HomeWork\ConsoleApp_Lesson4_HomeWork\bin\Debug\net5.0\ConsoleApp_Lesson4_HomeWork.exe
+C:\Users\Рома\source\repos\ConsoleApp_Lesson4_HomeWork\ConsoleApp_Lesson4_HomeWork\bin\Debug\net5.0\ConsoleApp_Lesson4_HomeWork.deps.json
+C:\Users\Рома\source\repos\ConsoleApp_Lesson4_HomeWork\ConsoleApp_Lesson4_HomeWork\bin\Debug\net5.0\ConsoleApp_Lesson4_HomeWork.runtimeconfig.json
+C:\Users\Рома\source\repos\ConsoleApp_Lesson4_HomeWork\ConsoleApp_Lesson4_HomeWork\bin\Debug\net5.0\ConsoleApp_Lesson4_HomeWork.runtimeconfig.dev.json
+C:\Users\Рома\source\repos\ConsoleApp_Lesson4_HomeWork\ConsoleApp_Lesson4_HomeWork\bin\Debug\net5.0\ConsoleApp_Lesson4_HomeWork.dll
+C:\Users\Рома\source\repos\ConsoleApp_Lesson4_HomeWork\ConsoleApp_Lesson4_HomeWork\bin\Debug\net5.0\ref\ConsoleApp_Lesson4_HomeWork.dll
+C:\Users\Рома\source\repos\ConsoleApp_Lesson4_HomeWork\ConsoleApp_Lesson4_HomeWork\bin\Debug\net5.0\ConsoleApp_Lesson4_HomeWork.pdb
+C:\Users\Рома\source\repos\ConsoleApp_Lesson4_HomeWork\ConsoleApp_Lesson4_HomeWork\obj\Debug\net5.0\ConsoleApp_Lesson4_HomeWork.dll
+C:\Users\Рома\source\repos\ConsoleApp_Lesson4_HomeWork\ConsoleApp_Lesson4_HomeWork\obj\Debug\net5.0\ref\ConsoleApp_Lesson4_HomeWork.dll
+C:\Users\Рома\source\repos\ConsoleApp_Lesson4_HomeWork\ConsoleApp_Lesson4_HomeWork\obj\Debug\net5.0\ConsoleApp_Lesson4_HomeWork.pdb
+C:\Users\Рома\source\repos\ConsoleApp_Lesson4_HomeWork\ConsoleApp_Lesson4_HomeWork\obj\Debug\net5.0\ConsoleApp_Lesson4_HomeWork.genruntimeconfig.cache
